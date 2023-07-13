@@ -8,5 +8,7 @@ Depois de um tempo, chegaram mais onze alunos nessa turma e o professor organizo
 
 
 No entanto, o professor se ausentou da sala por cinco minutos e, ao voltar, percebeu que um aluno que gosta de uma das disciplinas havia trocado de lugar com alguém que prefere a outra, e a turma ficou organizada conforme a ilustração 3 em anexo.
+![Ilustracao 03](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/407dd988-92a5-4ac5-a2b3-c5d660df559d)
+
 
 Sabendo que o professor tem dificuldade de memorizar, informe como ele descobriu a cadeira em que houve a troca de alunos e qual a disciplina de cada um.
