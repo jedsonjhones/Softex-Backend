@@ -12,17 +12,17 @@ Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algu
 
 # RESPOSTA
 <br>
-Em Física:
-1º Lugar:Aristóteles
-2º Lugar:Platão
-3º Lugar:Sócrates
+Em Física: <br>
+1º Lugar:Aristóteles <br>
+2º Lugar:Platão <br>
+3º Lugar:Sócrates <br>
+<br>
+Em Matemática: <br>
+1º Lugar:Platão <br>
+2º Lugar:Sócrates <br>
+3º Lugar:Aristóteles <br>
 
-Em Matemática:
-1º Lugar:Platão
-2º Lugar:Sócrates
-3º Lugar:Aristóteles
-
-Em Química:
-1º Lugar:Sócrates
-2º Lugar:Aristóteles
-3º Lugar:Platão
+Em Química: <br>
+1º Lugar:Sócrates <br>
+2º Lugar:Aristóteles <br>
+3º Lugar:Platão <br>
