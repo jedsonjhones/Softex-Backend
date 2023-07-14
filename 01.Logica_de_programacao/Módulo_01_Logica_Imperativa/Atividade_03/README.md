@@ -13,28 +13,28 @@ No algoritmo, descreva como será:
 
 # RESPOSTA.
 
-1.Variáveis:
-a) Nome
-b) CPF
-c) RG
-d) Altura
-e) Endereco
-
-2. Declaração das variáveis:
-var Nome: char;
-var CPF: int;
-var RG: int;
-var altura: real;
-Endereço: var int: numero, char: bairro, char: cidade, char: estado, char: Rua;
-
-3. Atribuição:
-Nome <- "José Almeida da Silva"
-CPF <- 12345678900
-RG <- 9517530
-altura <- 1,78;
-numero <- 380;
-bairro <- "Centro";
-cidade <- "Recife";
-estado <- "PE";
-Rua <- "Rua A";
+1.Variáveis: <br>
+a) Nome <br>
+b) CPF <br>
+c) RG <br>
+d) Altura <br>
+e) Endereco <br>
+<br>
+2. Declaração das variáveis: <br>
+var Nome: char; <br>
+var CPF: int; <br>
+var RG: int; <br>
+var altura: real; <br>
+Endereço: var int: numero, char: bairro, char: cidade, char: estado, char: Rua; <br>
+<br>
+3. Atribuição: <br>
+Nome <- "José Almeida da Silva" <br>
+CPF <- 12345678900 <br>
+RG <- 9517530 <br>
+altura <- 1,78 <br>
+numero <- 380 <br>
+bairro <- "Centro" <br>
+cidade <- "Recife" <br>
+estado <- "PE" <br>
+Rua <- "Rua A" <br>
 
