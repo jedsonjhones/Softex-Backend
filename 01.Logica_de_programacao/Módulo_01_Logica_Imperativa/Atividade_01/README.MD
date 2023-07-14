@@ -9,3 +9,20 @@ Sabendo que:
 Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
 
 Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+# RESPOSTA
+<br>
+Em Física:
+1º Lugar:Aristóteles
+2º Lugar:Platão
+3º Lugar:Sócrates
+
+Em Matemática:
+1º Lugar:Platão
+2º Lugar:Sócrates
+3º Lugar:Aristóteles
+
+Em Química:
+1º Lugar:Sócrates
+2º Lugar:Aristóteles
+3º Lugar:Platão
