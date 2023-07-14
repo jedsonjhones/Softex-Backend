@@ -21,7 +21,7 @@ Em Matemática: <br>
 1º Lugar:Platão <br>
 2º Lugar:Sócrates <br>
 3º Lugar:Aristóteles <br>
-
+<br>
 Em Química: <br>
 1º Lugar:Sócrates <br>
 2º Lugar:Aristóteles <br>
