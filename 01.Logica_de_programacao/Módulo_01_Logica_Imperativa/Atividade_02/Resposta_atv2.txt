@@ -1,0 +1,10 @@
+O professor organizou os alunos obedecendo o seguinte padrão:
+De forma alternada em cada linha temos 4+2 (4 alunos de uma disciplina + 2 alunos da outra disciplina). Ou seja, se na primeira linha temos 4P + 2M,na segunda linha teremos 4M + 2P.
+O mesmo padrão foi aplicado nas colunas.
+Assim o professor percebeu as colunas e linhas 
+
+Logo quando 2 alunos que gostavam de disciplinas diferente trocaram de lugar entre eles, esse padrão acabou sendo quebrado, ficando em 2 linhas e 2 colunas com 3M + 3P. Ao ser traçado uma reta nas linhas e colunas é possivel descobrir exatamente a posição da cadeira que ouver a troca, e tb a disciplina.
+<div align="center">
+  <img src="https://github.com/jedsonjhones/Softex-Backend/assets/39849707/f6f2baa4-e054-4023-a98b-905d7214fb6d" />
+</div>
+E assim o professor foi capaz de descobrir a cadeira em que houver troca de alunos, e a disciplina deles.
