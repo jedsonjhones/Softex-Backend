@@ -21,7 +21,7 @@ No entanto, o professor se ausentou da sala por cinco minutos e, ao voltar, perc
 
 Sabendo que o professor tem dificuldade de memorizar, informe como ele descobriu a cadeira em que houve a troca de alunos e qual a disciplina de cada um.
 
-#RESPOSTA
+# RESPOSTA
 <br>
 O professor organizou os alunos obedecendo o seguinte padrão:
 De forma alternada em cada linha temos 4+2 (4 alunos de uma disciplina + 2 alunos da outra disciplina). Ou seja, se na primeira linha temos 4P + 2M,na segunda linha teremos 4M + 2P.
