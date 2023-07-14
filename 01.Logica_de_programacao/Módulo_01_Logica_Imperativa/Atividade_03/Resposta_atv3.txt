@@ -16,9 +16,9 @@ Endereço: var int: numero, char: bairro, char: cidade, char: estado, char: Rua;
 Nome <- "José Almeida da Silva"
 CPF <- 12345678900
 RG <- 9517530
-altura <- 1,78;
-numero <- 380;
-bairro <- "Centro";
-cidade <- "Recife";
-estado <- "PE";
-Rua <- "Rua A";
+altura <- 1,78
+numero <- 380
+bairro <- "Centro"
+cidade <- "Recife"
+estado <- "PE"
+Rua <- "Rua A"
