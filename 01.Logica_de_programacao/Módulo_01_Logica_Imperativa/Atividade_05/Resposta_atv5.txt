@@ -13,11 +13,13 @@ Expressões:
 # Resposta:
 
 ( V )Jogador 1: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Sim)
-V and V and V = Verdadeiro
-( F )Jogador 2: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Não)
-F and V and V = Falso
-( V ) Jogador 3: (pontos < 100) or (moedas < 5) or (enfrentou_chefe == Sim)
-F ou F ou V = Verdadeiro
-( V ) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não) 
-V ou V ou não V = Verdadeiro
+V And V And V = Verdadeiro
 
+( F )Jogador 2: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Não)
+F And V And V = Falso
+
+( V ) Jogador 3: (pontos < 100) or (moedas < 5) or (enfrentou_chefe == Sim)
+F Or F Or V = Verdadeiro
+
+( V ) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não)
+V Or V Or Not V = Verdadeiro
