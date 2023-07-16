@@ -13,7 +13,7 @@ Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algu
 # RESPOSTA
 <br>
 Como sabemos Aristóteles não ficou em primeiro em Química (Logo Aristóteles não pode ser primeiro em Química) , e em Matemática ele acertou menos que Platão (Logo Aristóteles não pode ser primeiro em Matemática), e como na questão também fala que todos tiveram um 1º, 2º e 3º lugar em cada disciplina, podemos chegar a conclusão que Aristóteles foi primeiro em Física. <br>
-"Sócrates perdeu para Platão em Física;" como Aristóteles já esta em primeiro em física, podemos preencher toda com Platão em segunda e Sócrates em terceiro. <br>
+"Sócrates perdeu para Platão em Física;" como Aristóteles já esta em primeiro em física, podemos preencher toda com Platão em segunda e Sócrates em terceiro. Assim teremos: <br>
 Em Física: <br>
 1º Lugar:Aristóteles <br>
 2º Lugar:Platão <br>
@@ -23,7 +23,8 @@ Em Matemática: <br>
 1º Lugar:Platão <br>
 2º Lugar:Sócrates <br>
 3º Lugar:Aristóteles <br>
-Depois basta preencher o'que sobrou
+<br>
+Depois basta preencher o'que sobrou <br>
 <br> 
 <br>
 # RESPOSTA SiMPLIFICADA <br>
