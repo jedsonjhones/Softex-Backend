@@ -12,13 +12,13 @@ Algoritmo "tabuada" <br>
 <br>
 
     var
-    numero, contador: inteiro
+      numero, contador: inteiro
 
     inicio
-    escreva("Digite o número que deseja verificar a tabuada: ")
-    leia(numero)
-  
-    para contador de 0 ate 10 faca
-    escreva(numero, " x ", contador, " = ", numero * contador)
-    fimpara
+      escreva("Digite o número que deseja verificar a tabuada: ")
+      leia(numero)
+   
+      para contador de 0 ate 10 faca
+        escreva(numero, " x ", contador, " = ", numero * contador)
+      fimpara
     fim
