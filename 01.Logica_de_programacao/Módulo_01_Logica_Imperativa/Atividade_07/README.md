@@ -15,8 +15,10 @@ Algoritmo "tabuada" <br>
     numero, contador: inteiro
 
     inicio
-    escreva("Digite o número que deseja verificar a tabuada: ")
+    escreva("Digite o número que deseja verificar a tabuada: ")
     leia(numero)
-    para contador <- 0 ate 10 faca
-    escreva(numero, "x",contador, "=", numero * contador)
+  
+    para contador de 0 ate 10 faca
+    escreva(numero, " x ", contador, " = ", numero * contador)
     fimpara
+    fim
