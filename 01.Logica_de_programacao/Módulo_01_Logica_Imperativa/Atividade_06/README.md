@@ -17,11 +17,10 @@ Para chegar ao resultado de cada uma das opções, use o modelo em anexo.
 
 ![unnamed](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/1a767e9c-df84-446e-a91f-d18b60503927)
 
-# Resposta (OBS: NÃO UTILIZEI CHAVES, POIS ESTOU ASSUMINDO QUE O COMPILADOR QUE VOCÊ IRÁ USAR, IRÁ LER O CÓDIGO DE ACORDO COM SUA 
-INDENTAÇÃO)))
+# Resposta (OBS: NÃO UTILIZEI CHAVES, POIS ESTOU ASSUMINDO QUE O COMPILADOR QUE VOCÊ IRÁ USAR, IRÁ LER O CÓDIGO DE ACORDO COM SUA INDENTAÇÃO)
 
-      Var
-      resposta: caractere
+    Var
+    resposta: caractere
 
     Inicio
       escreva("Seu veiculo é terrestre? sim ou não?")
