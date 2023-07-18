@@ -8,5 +8,6 @@ No final, imprima os valores das variáveis.
 
 # RESPOSTA
 
-![Resposta_atv2](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/cae164fb-e3d3-46eb-b424-f5450a37e566)
+![Resposta_atv2](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/88d56d84-65d1-49d3-910b-639ebd7a5670)
+
 
