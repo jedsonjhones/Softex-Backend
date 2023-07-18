@@ -16,7 +16,6 @@ Utilizando o Google Blockly construa o algoritmos que realiza esse processamento
 
 var nota1, nota2, soma_das_notas, medias_das_notas;
 
-
 nota1 = 9;
 nota2 = 7;
  soma_das_notas = nota1 + nota2;
@@ -28,4 +27,4 @@ if (medias_das_notas >= 7) {
   window.alert('Nota menor que 7');
   window.alert('Aluno Reprovado');
 }
-```JS
+```
