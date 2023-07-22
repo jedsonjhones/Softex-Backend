@@ -13,6 +13,7 @@ D: Veículos com quatro rodas ou mais e que acomodam mais de oito pessoas;
 E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 # RESPOSTA
+![Resposta_atv04](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/c176f520-8ccd-424a-8cbf-f6b645c460fb)
 
 
 
