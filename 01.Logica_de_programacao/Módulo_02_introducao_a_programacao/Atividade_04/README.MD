@@ -15,11 +15,14 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 # RESPOSTA
 ![Resposta_atv04](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/c176f520-8ccd-424a-8cbf-f6b645c460fb)
 
+![Resposta2_atv04](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/622e1b4e-bde1-4d57-b45d-f2351cfe0882)
 
 
 
 
-# CÓDIGO
+
+
+# CÓDIGO EM JS
 
 ```JS
 var quantidadeRodas, pesoBruto, quantidadePessoas;
