@@ -21,7 +21,7 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 # CÓDIGO
 
-´´´JS
+```JS
 var quantidadeRodas, pesoBruto, quantidadePessoas;
 
 quantidadeRodas = 8;
@@ -41,4 +41,4 @@ if (quantidadeRodas == 2 || quantidadeRodas == 3) {
   window.alert('Não foi possível determinar a melhor categoria de habilitação para o veículo informado.');
 }
 
-´´´
+```
