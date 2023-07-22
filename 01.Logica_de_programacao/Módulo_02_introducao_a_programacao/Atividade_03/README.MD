@@ -1,4 +1,6 @@
-Desenvolva, utilizando o Google Blockly, um programa que utiliza o nome de um aluno, duas notas e a quantidade de faltas que ele teve. Conclua se o aluno está aprovado ou reprovado de acordo com as especificações:
+Instruções do projeto
+Desenvolva, utilizando o Google Blockly, um programa que utiliza o nome de um aluno, duas notas e a quantidade de faltas que ele teve. 
+Conclua se o aluno está aprovado ou reprovado de acordo com as especificações:
  
 - Se a média do aluno for menor que sete, o sistema deve informar o nome do aluno e que ele está reprovado;
 - Se o aluno possuir mais de três faltas, o sistema deve informar o nome do aluno e que ele está reprovado;
@@ -7,14 +9,15 @@ Se a média do aluno for maior ou igual a sete, o sistema deve informar o nome d
 No sistema, todos os valores devem estar armazenados em variáveis.
 
 # RESPOSTA
+![Resposta_atv03](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/ca41b15c-7da2-40e4-92c5-e1a51d840541)
 
 
 
 
 
-# CÓDIGO
+# CÓDIGO EM JS
 
-'''JS
+```JS
 var nomeAluno, nota1, nota2, faltas, somaNotas, media;
 
 
@@ -29,4 +32,4 @@ if (media < 7 || faltas > 3) {
 } else {
   window.alert(String(nomeAluno) + ' está aprovado');
 
-'''
+```
