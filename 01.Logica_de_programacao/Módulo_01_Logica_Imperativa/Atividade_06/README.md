@@ -37,7 +37,12 @@ Para chegar ao resultado de cada uma das opções, use o modelo em anexo.
           se(resposta == "sim") entao
             escreva("Seu veiculo é um trator")
           senao
-            escreva("Não foi possível descobrir seu veiculo")
+            escreva("Tem pedal?")
+            se(resposta == "sim") entao
+              escreva("Então, o transporte escolhido foi a bicicleta.")
+            senao
+              escreva("Não foi possível descobrir seu veiculo")
+            fimse
           fimse
       
         senao
