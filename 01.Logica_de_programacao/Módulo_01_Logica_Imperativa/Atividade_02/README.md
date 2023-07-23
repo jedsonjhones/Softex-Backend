@@ -32,4 +32,5 @@ Logo quando 2 alunos que gostavam de disciplinas diferente trocaram de lugar ent
 <div align="center">
   <img src="https://github.com/jedsonjhones/Softex-Backend/assets/39849707/73ce8324-ecc5-47c1-8f22-55c020dae1e8" />
 </div>
+Levando em consideração tambem que não havia antes sequencias de 4 M nas linhas ou colunas. <br>
 E assim o professor foi capaz de descobrir a cadeira em que houver troca de alunos, e a disciplina deles.
