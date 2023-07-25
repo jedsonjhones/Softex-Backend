@@ -4,7 +4,7 @@ Faça um código, utilizando o Google Blockly, que execute a contagem regressiva
 
 # RESPOSTA
 
-![Resposta_atv05](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/9ec72194-4e6f-4ca7-93ad-956a25f63fc7)
+![Resposta_atv05](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/2d167c68-0087-476f-b959-67fa5f8a0f55)
 
 
 
@@ -15,7 +15,7 @@ Faça um código, utilizando o Google Blockly, que execute a contagem regressiva
 var segundos;
 
 segundos = 10;
-window.alert('Iniciando contagem regressiva');
+window.alert(['Iniciando contagem regressiva! ',segundos,' segundos para a explosão! '].join(''));
 while (segundos > 0) {
   window.alert(['Faltam ',segundos,' segundos'].join(''));
   segundos = segundos - 1;
