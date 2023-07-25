@@ -4,13 +4,14 @@ Faça um código, utilizando o Google Blockly, que execute a contagem regressiva
 
 # RESPOSTA
 
+![Resposta_atv05](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/9ec72194-4e6f-4ca7-93ad-956a25f63fc7)
 
 
 
 
 # CÓDIGO EM JS
 
-´´´JS
+```JS
 var segundos;
 
 segundos = 10;
@@ -20,6 +21,4 @@ while (segundos > 0) {
   segundos = segundos - 1;
 }
 window.alert('BUM!');
-
-
-´´´
+```
