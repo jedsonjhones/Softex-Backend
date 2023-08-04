@@ -23,8 +23,8 @@ class Pessoa {
 }
 /*
  A classe ListaLigadaPessoas define a estrutura ligada com vários nós e as operações necessárias para a manipulação
- da lista. Esta classe tem um único atributo cebeça, que é a referência para o primeiro nó da lista, onde cabeca será
- null se a lista estiver vazia.
+ da lista. Esta classe tem um único atributo cebeça, que é a referência para o primeiro nó da lista, onde cabeca
+ será null se a lista estiver vazia.
  */
 class ListaLigadaPessoas {
     constructor() {
@@ -127,3 +127,8 @@ listaLigadaPessoas.printList();
 const tamanhoLista = listaLigadaPessoas.size();
 console.log("Tamanho da lista:", tamanhoLista);
 ```
+<div align="center">
+  <img src="https://github.com/jedsonjhones/Softex-Backend/assets/39849707/d9909c72-cc1f-465c-9887-9f5365e8820a" />
+</div>
+
+
