@@ -12,7 +12,7 @@ class Pessoa {
 }
 /*
  A classe ListaLigadaPessoas define a estrutura ligada com vários nós e as operações necessárias para a manipulação da lista. Esta
- classe tem um único atributo head, que é a referência para o primeiro nó da lista, onde cabeca será null se a lista estiver vazia.
+ classe tem um único atributo cabeça, que é a referência para o primeiro nó da lista, onde cabeca será null se a lista estiver vazia.
  */
 class ListaLigadaPessoas {
     constructor() {
