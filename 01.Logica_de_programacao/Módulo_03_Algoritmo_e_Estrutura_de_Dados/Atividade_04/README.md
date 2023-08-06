@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Crie uma lista encadeada em que cada elemento representa uma pessoa.
 
@@ -6,7 +6,7 @@ Ela precisa conter informações como nome, idade e referência ao filho dela.
 
 # RESPOSTA
 
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 const prompt = require("prompt-sync")();
