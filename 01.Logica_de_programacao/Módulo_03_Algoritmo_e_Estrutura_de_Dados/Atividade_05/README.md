@@ -8,7 +8,7 @@ Codifique a solução mais eficiente para buscar o número 20 no array.
 
 # RESPOSTA
 
-Com a busca binária, a complexidade do algoritmo é O(log n), e com a busca linear complexidade é O(n), sendo "n" o número de elementos na coleção. Com isso a busca binária é mais eficiente do que a busca linear nos casos que lidamos com arrays maiores, pois podera reduzir de modo significativo o tempo de execução do código. Logo como nosso array possui um tamanho igual a 10, será mais pratico utiliza a busca binária.
+Com a busca binária, a complexidade do algoritmo é O(log n), e com a busca linear complexidade é O(n), sendo "n" o número de elementos na coleção. Com isso a busca binária é mais eficiente do que a busca linear nos casos que lidamos com arrays maiores, pois podera reduzir de modo significativo o tempo de execução do código. Logo, como nosso array possui um tamanho igual a 10 será mais pratico utiliza a busca binária.
 
 # CÓDIGO EM JS
 
