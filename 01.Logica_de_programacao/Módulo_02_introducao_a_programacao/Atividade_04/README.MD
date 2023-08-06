@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Desenvolva um código, utilizando o Google Blockly, que utilize as seguintes características de um veículo:
 - Quantidade de rodas;
@@ -22,7 +22,7 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 
 
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 var quantidadeRodas, pesoBruto, quantidadePessoas;
