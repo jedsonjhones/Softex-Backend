@@ -1,3 +1,5 @@
+# Instruções do projeto:
+
 Em uma inscrição, o usuário informou os seguintes dados:
 
 - Nome: José Almeida da Silva
@@ -11,7 +13,7 @@ No algoritmo, descreva como será:
 2. Elaborada a declaração das variáveis;
 3. Utilizado o comando de atribuição. 
 
-# RESPOSTA.
+# Resposta
 
 1.Variáveis: <br>
 a) Nome <br>
