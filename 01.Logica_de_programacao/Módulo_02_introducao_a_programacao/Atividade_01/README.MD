@@ -1,4 +1,4 @@
-Instruções do projeto
+# Instruções do projeto
 
 No hipertexto anterior, temos um exemplo de um fluxograma que realiza o cálculo da média de duas notas de um aluno. O fluxograma solicita 
 duas notas que serão somadas, e logo em seguida a média dessas notas é calculada. Dessa forma o resultado da média quando é maior ou 
@@ -14,7 +14,7 @@ Utilizando o Google Blockly construa o algoritmos que realiza esse processamento
 
 ![Resposta_atv01_](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/6a55da47-1cec-4e03-a972-7cce5ea5b96c)
 
-# Codigo em JS
+### Codigo em JS
 
 ```JS
 
