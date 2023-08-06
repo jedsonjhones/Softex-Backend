@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Faça, utilizando o Google Blockly, uma função calculadora que os números e as operações serão feitas pelo usuário. O código deve ficar rodando infinitamente até que o usuário escolha a opção de sair. No início, o programa mostrará a seguinte lista de operações:
 1: Soma
@@ -19,7 +19,7 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 
 
 
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 var operacao, resultado, primeiroNumero, segundoNumero;
