@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Você deve criar três listas em JavaScript:
 
@@ -10,7 +10,7 @@ Em seguida, imprima essas listas. Depois, faça algumas modificações, alterand
 
 # RESPOSTA
 
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 const prompt = require("prompt-sync")();
