@@ -1,4 +1,5 @@
-Instruções do projeto
+# Instruções do projeto:
+
 Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados fornecidos pelo usuário:
 
 - Nome
@@ -14,7 +15,7 @@ Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados
 
 Apresente as informações solicitadas no final do cadastro.
 
-# RESPOSTA
+# Resposta
 
 var <br>
 nome: caractere <br>
