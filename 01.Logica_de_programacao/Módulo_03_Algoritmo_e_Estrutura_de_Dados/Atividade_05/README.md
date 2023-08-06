@@ -10,45 +10,39 @@ Codifique a solução mais eficiente para buscar o número 20 no array.
 
 Com a busca binária, a complexidade do algoritmo é O(log n), e com a busca linear complexidade é O(n), sendo "n" o número de elementos na coleção. Com isso a busca binária é mais eficiente do que a busca linear nos casos que lidamos com arrays maiores, pois podera reduzir de modo significativo o tempo de execução do código.
 
-Embora nosso array não esteja ordenado, podemos utilizar o método sort() para ordenar ele antes de ser utilizado a função de busca, e assim utilizar a busca binária, pois como nosso array possui um tamanho igual a 10, e não possuir elementos duplicados, acaba por ser mais prático utilizar a busca binária.
+Mas a busca binária só pode ser utilizada em arrays ordenados. Claro que poderíamos utilizar o método sort() para ordenar nosso array antes de utilizar a função, mas isso iria aumentar um pouquinho a complexidade do nosso código, e com isso aumentando um pouco o tempo de execução. Logo, como precisamos fazer uma única busca, em um array que não está ordenado, a busca linear será mais eficiente.
 
 
 # CÓDIGO EM JS
 
 ```JS
 const prompt = require("prompt-sync")();
-
-// Função que realiza a busca binária em um array
-function buscaBinaria(array, elementoBuscado) {
-  let inicio = 0;
-  let fim = array.length - 1;
-
-  while (inicio <= fim) {
-    // Calcula o índice do meio da coleção
-    const meio = Math.floor((inicio + fim) / 2);
-
-    // Verifica se o elemento do meio é igual ao elemento buscado
-    if (array[meio] === elementoBuscado) {
-        //Retorna o índice onde o elemento foi encontrado
-      return meio; 
-    }  
-    // Se o elemento do meio for maior que o elemento buscado, descarta a metade á direita
-    if (array[meio] > elementoBuscado) {
-      fim = meio - 1; 
-    } else {
-        // Caso contrário, descarta a metade á esquerda
-      inicio = meio + 1; 
+/* 
+A função buscaLinear recebe o array e o elemento 20, que é oquue desejamos buscar.
+Ela percorre cada elemento do array utilizando o loop for e compara o elemento atual 
+com o procurado.
+Se achar uma correspondência, a função retorna o índice onde o elemento foi encontrado. 
+Caso contrario ela retorna -1 para indicar que ele não foi encontrado na coleção  
+*/
+// Função que realiza a busca linear em um array
+function buscaLinear(array, elementoBuscado) {
+  // Verifica se o elemento atual é igual ao elemento buscado
+  for (let i = 0; i < array.length; i++) {
+    if (array[i] === elementoBuscado) {
+      // Retorna o índice onde o elemento foi encontrado
+      return i; 
     }
   }
   // Caso o elemento não seja encontrado, retorna -1
-  return -1;
+  return -1; 
 }
-// Utilizando a busca binária
-const array = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];
+
+// Usando a busca linear
+const listaNumeros = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];
 const elementoProcurado = 20;
-// O método sort() foi utilizado para garantir que o array esteja ordenado antes da busca binária
-const indiceEncontrado = buscaBinaria(array.sort((a, b) => a - b), elementoProcurado);
-// Caso existisse números duplicados no nosso array, precisaríamos realizar alguns novos ajustes, ou então utilizar a busca linear.
+
+const indiceEncontrado = buscaLinear(listaNumeros, elementoProcurado);
+
 if (indiceEncontrado !== -1) {
   console.log(`O elemento ${elementoProcurado} foi encontrado no índice ${indiceEncontrado}.`);
 } else {
