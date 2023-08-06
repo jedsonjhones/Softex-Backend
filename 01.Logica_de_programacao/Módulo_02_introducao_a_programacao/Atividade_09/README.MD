@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Desenvolva um código que simule uma eleição com três candidatos.
 - candidato_X => 889
@@ -12,7 +12,7 @@ Quando a votação for finalizada, o código deverá mostrar o vencedor, aquele 
 
 # RESPOSTA
 
-# CÓDIGO EM JS
+## CÓDIGO EM JS
 
 ```JS
 const prompt = require("prompt-sync")(); /* Para roda o prompt no node */
