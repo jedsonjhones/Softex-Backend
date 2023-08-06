@@ -14,7 +14,7 @@ Utilizando o Google Blockly construa o algoritmos que realiza esse processamento
 
 ![Resposta_atv01_](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/6a55da47-1cec-4e03-a972-7cce5ea5b96c)
 
-### Codigo em JS
+### Código em JS
 
 ```JS
 
