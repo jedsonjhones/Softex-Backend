@@ -1,3 +1,5 @@
+# Instruções do projeto:
+
 Levando em consideração os aprendizados sobre as estruturas condicionais, elabore um algoritmo que possa descobrir, através de perguntas e respostas, qual é o meio de transporte que o usuário está considerando. O usuário deverá escolher uma das seguintes opções:
 
 - trator; 
