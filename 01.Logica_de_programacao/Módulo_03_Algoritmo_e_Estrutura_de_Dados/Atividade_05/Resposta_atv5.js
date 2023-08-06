@@ -1,34 +1,30 @@
 const prompt = require("prompt-sync")();
-
-// Função que realiza a busca binária em um array ordenado
-function buscaBinaria(array, elementoBuscado) {
-  let inicio = 0;
-  let fim = array.length - 1;
-
-  while (inicio <= fim) {
-    // Calcula o índice do meio da coleção
-    const meio = Math.floor((inicio + fim) / 2);
-
-    // Verifica se o elemento do meio é igual ao elemento buscado
-    if (array[meio] === elementoBuscado) {
-        //Retorna o índice onde o elemento foi encontrado
-      return meio; 
-    }  
-    // Se o elemento do meio for maior que o elemento buscado, descarta a metade á direita
-    if (array[meio] > elementoBuscado) {
-      fim = meio - 1; 
-    } else {
-        // Caso contrário, descarta a metade á esquerda
-      inicio = meio + 1; 
+/* 
+A função buscaLinear recebe o array e o elemento 20, que é oquue desejamos buscar.
+Ela percorre cada elemento do array utilizando o loop for e compara o elemento atual 
+com o procurado.
+Se achar uma correspondência, a função retorna o índice onde o elemento foi encontrado.
+Caso contrario ela retorna -1 para indicar que ele não foi encontrado na coleção  
+*/
+// Função que realiza a busca linear em um array
+function buscaLinear(array, elementoBuscado) {
+  // Verifica se o elemento atual é igual ao elemento buscado
+  for (let i = 0; i < array.length; i++) {
+    if (array[i] === elementoBuscado) {
+      // Retorna o índice onde o elemento foi encontrado
+      return i; 
     }
   }
   // Caso o elemento não seja encontrado, retorna -1
-  return -1;
+  return -1; 
 }
-// Utilizando a busca binária
-const array = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];
+
+// Usando a busca linear
+const listaNumeros = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];
 const elementoProcurado = 20;
-const indiceEncontrado = buscaBinaria(array, elementoProcurado);
+
+const indiceEncontrado = buscaLinear(listaNumeros, elementoProcurado);
+
 if (indiceEncontrado !== -1) {
   console.log(`O elemento ${elementoProcurado} foi encontrado no índice ${indiceEncontrado}.`);
 } else {
