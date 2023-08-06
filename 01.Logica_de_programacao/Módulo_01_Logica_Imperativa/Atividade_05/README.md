@@ -1,3 +1,5 @@
+# Instruções do projeto:
+
 Na tabela em anexo, encontramos dados de 4 jogadores de um game que contemplam os pontos e moedas obtidos durante as partidas e se conseguiram lutar ou não com o chefe.
 
 ![PeerTutoringExtra_LogicaImperativa_01](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/9f01e66f-7628-42b3-97af-5558af7f3b6d)
