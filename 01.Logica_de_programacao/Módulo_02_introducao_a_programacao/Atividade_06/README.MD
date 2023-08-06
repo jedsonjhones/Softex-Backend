@@ -1,4 +1,4 @@
-Instruções do projeto
+# Instruções do projeto
 
 Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição:
 1. Soma
@@ -9,7 +9,7 @@ Faça uma função calculadora de dois números com três parâmetros: os dois p
 Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
 
 # RESPOSTA
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 const prompt = require("prompt-sync")(); /* Apenas uma biblioteca para Executar o prompt no node */
