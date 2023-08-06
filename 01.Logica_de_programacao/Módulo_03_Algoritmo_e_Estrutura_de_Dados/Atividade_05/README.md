@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Temos o array [15, 8, 10, 25, 12, 30, 5, 20, 18, 7] e precisamos criar um código em JavaScript para encontrar o valor 20.
 
@@ -13,7 +13,7 @@ Com a busca binária, a complexidade do algoritmo é O(log n), e com a busca lin
 Mas a busca binária só pode ser utilizada em arrays ordenados. Claro que poderíamos utilizar o método sort() para ordenar nosso array antes de utilizar a função, mas isso iria aumentar um pouquinho a complexidade do nosso código, e com isso aumentando um pouco o tempo de execução. Logo, como precisamos fazer uma única busca, em um array que não está ordenado, a busca linear será mais eficiente.
 
 
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 const prompt = require("prompt-sync")();
