@@ -1,4 +1,5 @@
-INSTRUÇÕES DO PROJETO
+# Instruções do projeto:
+
 Aristóteles, Sócrates e Platão estavam disputando uma competição de perguntas nas disciplinas de Física, Matemática e Química. Cada um obteve um primeiro lugar, um segundo lugar e um terceiro lugar.
 
 Sabendo que: 
@@ -10,7 +11,7 @@ Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
 
 Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
 
-# RESPOSTA
+# Resposta
 <br>
 Como sabemos Aristóteles não ficou em primeiro em Química (Logo Aristóteles não pode ser primeiro em Química) , e em Matemática ele acertou menos que Platão (Logo Aristóteles não pode ser primeiro em Matemática), e como na questão também fala que todos tiveram um 1º, 2º e 3º lugar em cada disciplina, podemos chegar a conclusão que Aristóteles foi primeiro em Física. <br>
 "Sócrates perdeu para Platão em Física;" como Aristóteles já esta em primeiro em física, podemos preencher toda com Platão em segunda e Sócrates em terceiro. Assim teremos: <br>
