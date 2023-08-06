@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Desenvolva, utilizando o Google Blockly, um programa que utiliza o nome de um aluno, duas notas e a quantidade de faltas que ele teve. 
 Conclua se o aluno está aprovado ou reprovado de acordo com as especificações:
@@ -16,7 +16,7 @@ No sistema, todos os valores devem estar armazenados em variáveis.
 
 
 
-# CÓDIGO EM JS
+### CÓDIGO EM JS
 
 ```JS
 var nomeAluno, nota1, nota2, faltas, somaNotas, media;
