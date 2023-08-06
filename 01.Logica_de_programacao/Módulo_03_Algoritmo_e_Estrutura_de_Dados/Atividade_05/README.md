@@ -21,7 +21,7 @@ const prompt = require("prompt-sync")();
 A função buscaLinear recebe o array e o elemento 20, que é oquue desejamos buscar.
 Ela percorre cada elemento do array utilizando o loop for e compara o elemento atual 
 com o procurado.
-Se achar uma correspondência, a função retorna o índice onde o elemento foi encontrado. 
+Se achar uma correspondência, a função retorna o índice onde o elemento foi encontrado.
 Caso contrario ela retorna -1 para indicar que ele não foi encontrado na coleção  
 */
 // Função que realiza a busca linear em um array
