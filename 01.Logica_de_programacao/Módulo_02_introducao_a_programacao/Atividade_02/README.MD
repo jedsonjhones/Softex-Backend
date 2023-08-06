@@ -1,4 +1,4 @@
-Instruções do projeto:
+# Instruções do projeto:
 
 Construa um algoritmo no Blockly que declare as seguintes variáveis: nome, idade, altura e maior_de_idade.
 
