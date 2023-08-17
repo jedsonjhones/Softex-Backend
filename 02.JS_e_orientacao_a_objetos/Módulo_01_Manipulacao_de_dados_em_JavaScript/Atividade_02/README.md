@@ -14,7 +14,8 @@ Eu utilizo o Visual Studio Code (VS Code) para o desenvolvimento em JavaScript d
    e algumas várias extensão do vs code, assim ele me auxilia  durante a programação, além de ser capaz de rodar, depurar e de alternar facilmente
     entre projetos e arquivos .
 
-    ![img](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/57eaf130-cf6f-4487-a367-8bebbf1423b3)
+![img](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/6c37ca8c-94f8-41b7-a93a-367964481f68)
+
 
 
 
