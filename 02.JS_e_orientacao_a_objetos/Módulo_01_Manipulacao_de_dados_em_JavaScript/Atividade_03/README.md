@@ -44,7 +44,7 @@ console.log("Variável 'boolean' com valor booleano:", variavelBoolean);
 console.log("Variável 'bigint' com valor bigint:", variavelBigint);
 console.log("Variável 'string' com valor string:", variavelString);
 console.log("Variável 'symbol' com valor symbol:", variavelSymbol);
-```.
+```
 
 
 
