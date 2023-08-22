@@ -1,0 +1,17 @@
+Algumas das principais vantagens e melhorias trazidas pelas evoluções do ECMAScript (a especificação padrão que define a linguagem JavaScript):
+
+1- Melhorias na Sintaxe e Funcionalidades Modernas:
+Cada versão do ECMAScript trouxe novas funcionalidades e sintaxe mais moderna para a linguagem JavaScript.
+
+2 - Arrow Functions:
+As arrow functions proporcionam uma sintaxe mais curta para definir funções. Elas herdam o valor this do contexto no qual são definidas, o que resolve problemas comuns de escopo em funções tradicionais.
+
+3 - Classes:
+Também introduziu a sintaxe de classes, permitindo que os desenvolvedores utilizem uma abordagem mais orientada a objetos para criar objetos e estruturas de herança.
+
+
+4 - Melhorias de Performance:
+Além das adições de sintaxe e recursos, as atualizações do ECMAScript muitas vezes incluem otimizações e melhorias de desempenho, o que resulta em códigos JavaScript mais eficientes e rápidos.
+
+5 - Diversas bibliotecas e frameworks
+Atualmente, com o desenvolvimento das comunidades e a disseminação da informação, existem incontáveis bibliotecas, bem como frameworks, que são capazes de flexibilizar os processos. Assim, você consegue programar um JS em back-end.
