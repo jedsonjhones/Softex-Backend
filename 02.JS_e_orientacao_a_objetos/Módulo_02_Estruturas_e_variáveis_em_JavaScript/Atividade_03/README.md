@@ -10,7 +10,6 @@ O segundo código é um programa que o aluno deve escrever duas notas e o retorn
 // Código que verifica se o aluno reprovou ou não com base em suas três notas
 const prompt = require("prompt-sync")();
 
-// Recebe as três notas do aluno
 const nota1 = parseFloat(prompt("Digite a primeira nota: "));
 const nota2 = parseFloat(prompt("Digite a segunda nota: "));
 const nota3 = parseFloat(prompt("Digite a terceira nota: "));
@@ -29,7 +28,6 @@ const nota1 = parseFloat(prompt("Digite a primeira nota: "));
 const nota2 = parseFloat(prompt("Digite a segunda nota: "));
 
 const somaNotas = nota1 + nota2;
-// Calcula a nota mínima necessária
 const notaMinima = (21 - somaNotas);
 
 console.log("Para passar com nota sete, você precisa tirar pelo menos:", notaMinima);
