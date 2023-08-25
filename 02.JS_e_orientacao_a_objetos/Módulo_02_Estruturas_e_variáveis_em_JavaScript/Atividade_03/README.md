@@ -30,7 +30,7 @@ const nota2 = parseFloat(prompt("Digite a segunda nota: "));
 const somaNotas = nota1 + nota2;
 const notaMinima = (21 - somaNotas);
 
-console.log("Para passar com nota sete, você precisa tirar pelo menos:", notaMinima);
+console.log("Para passar com nota meida igual a sete, você precisa tirar pelo menos:", notaMinima);
 ```
 
 
