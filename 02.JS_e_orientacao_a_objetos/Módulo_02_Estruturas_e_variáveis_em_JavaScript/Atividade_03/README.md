@@ -5,8 +5,9 @@ O segundo código é um programa que o aluno deve escrever duas notas e o retorn
 
 # RESPOSTA
 
-## CÓDIGO EM JS
+## CÓDIGOS EM JS
 ```JS
+// PRIMEIRO CÓDIGO
 // Código que verifica se o aluno reprovou ou não com base em suas três notas
 const prompt = require("prompt-sync")();
 
@@ -21,6 +22,7 @@ console.log("Situação do aluno:", situacao);
 ```
 ##
 ```JS
+// SEGUNDO CÓDIGO
 // Código que calcula a nota mínima necessária na última prova para passar com media sete
 const prompt = require("prompt-sync")();
 
