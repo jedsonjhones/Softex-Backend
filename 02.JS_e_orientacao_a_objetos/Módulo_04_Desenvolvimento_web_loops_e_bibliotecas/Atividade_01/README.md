@@ -1,11 +1,11 @@
 # Instruções:
 
-Crie um código com um objeto chamado *"Banco"*. Ele deverá ter propriedades que incluem conta, saldo, tipo de conta e agência e os seus métodos devem ser: buscar saldo, depósito, saque e número da conta. 
+Crie um código com um objeto chamado **"Banco"**. Ele deverá ter propriedades que incluem conta, saldo, tipo de conta e agência e os seus métodos devem ser: buscar saldo, depósito, saque e número da conta. 
 observações:
-- *busca saldo* deve retornar o valor atual do saldo;
-- para o *deposito* , você deverá passar um valor como parâmetro e adicioná-lo no saldo final do objeto; 
-- para o *saque* , você deverá passar um valor como parâmetro e adicioná-lo no saldo final do objeto; 
-- o *numero da conta*  deve retornar o número da conta.
+- **busca saldo** deve retornar o valor atual do saldo;
+- para o **deposito** , você deverá passar um valor como parâmetro e adicioná-lo no saldo final do objeto; 
+- para o **saque** , você deverá passar um valor como parâmetro e adicioná-lo no saldo final do objeto; 
+- o **numero da conta**  deve retornar o número da conta.
 
 # RESPOSTA
 
