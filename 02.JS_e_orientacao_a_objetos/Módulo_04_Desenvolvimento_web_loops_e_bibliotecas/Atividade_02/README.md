@@ -41,6 +41,9 @@ app.listen(porta, function () {
 
 app.use(routes);
 ```
+##
+![img1](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/13eef14f-ca11-4914-8db7-382e6206203e)
+![img2](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/ad2f3c70-87a9-421d-b1c7-ba70bcafa706)
 
 
 
