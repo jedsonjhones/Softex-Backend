@@ -44,6 +44,15 @@ app.use(routes);
 ##
 ![img1](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/13eef14f-ca11-4914-8db7-382e6206203e)
 ![img2](https://github.com/jedsonjhones/Softex-Backend/assets/39849707/ad2f3c70-87a9-421d-b1c7-ba70bcafa706)
+### Instruções no terminal do VS Code:
+```
+npm install  express ou npm i express
+nom install nodemon ou npm i nodemon
+Criar uma pasta "src" para coloca o código fonte.
 
+Para rodar o código, no terminal digite: node index.js
+no terminal digite ctrl + c para fechar o server
+Para automatiza o salvamento de alterações, você pode usar o comando: "nodemon index.js", ao inves do node "index.js"
+```
 
 
