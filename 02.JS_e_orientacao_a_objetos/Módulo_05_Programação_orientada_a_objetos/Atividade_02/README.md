@@ -3,22 +3,22 @@
 Com base no que estudamos, escolha dois objetos materiais e dois abstratos. Em seguida, faça uma lista com, pelo menos, três atributos e três métodos para cada tipo de objeto. Para finalizar, demonstre esses objetos em JavaScript e exemplifique as suas características e ações.
 
 # RESPOSTA
-Carro
-Atributos: Marca,Modelo, Ano de fabricação
-Métodos: Ligarr(), Desligar(), Acelerar()
-
-Smartphone
-Atributos: Marca, Modelo, Sistema operacional
-Métodos: FazerLigação(numero), EnviarMensagem(conteudo, destinatario), TirarFoto()
-
-Objetos Abstratos:
-Conta Bancária
-Atributos: Nome do titular, Saldo, Número da conta, Métodos:
-Depositar(valor), Sacar(valor), ConsultarSaldo()
-
-Agenda de Contatos
-Atributos: Lista de contatos, Nome do proprietário, Data de criação
-Métodos: AdicionarContato(contato), RemoverContato(nome), ProcurarContato(nome)
+Carro <br>
+Atributos: Marca,Modelo, Ano de fabricação <br>
+Métodos: Ligarr( ), Desligar( ), Acelerar( ) <br>
+<br>
+Smartphone <br>
+Atributos: Marca, Modelo, Sistema operacional <br>
+Métodos: FazerLigação(numero), EnviarMensagem(conteudo, destinatario), TirarFoto( ) <br>
+<br>
+Objetos Abstratos: <br>
+Conta Bancária <br>
+Atributos: Nome do titular, Saldo, Número da conta, Métodos: <br>
+Depositar(valor), Sacar(valor), ConsultarSaldo( ) <br>
+<br>
+Agenda de Contatos <br>
+Atributos: Lista de contatos, Nome do proprietário, Data de criação <br>
+Métodos: AdicionarContato(contato), RemoverContato(nome), ProcurarContato(nome) <br>
 
 ## CÓDIGO EM JS
 
