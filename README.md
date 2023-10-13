@@ -7,6 +7,6 @@ O curso tem como objetivo desenvolver habilidade em programação back-end para 
 
  O curso tem como objetivo que você seja capaz de desenvolver e interpretar algoritmos, assim como projetar diagramas lógicos para codificar a resolução de problemas. Ao fim do curso, esperamos que você seja capaz de compreender o paradigma de orientação a objetos e os aspectos de modularização. 
 
-## 01. JavaScript e Orientação a Objetos.
+## 02. JavaScript e Orientação a Objetos.
 
  O curso tem como objetivo que você seja capaz de desenvolver programas a partir dos fundamentos básicos de JavaScript. Espera-se que ao fim do curso você seja capaz de desenvolver soluções aprimoradas utilizando recursos do JavaScript, a partir do paradigma de orientação a objetos. 
