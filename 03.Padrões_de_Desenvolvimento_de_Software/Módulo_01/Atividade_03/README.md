@@ -6,7 +6,7 @@ Instruções:</b></div><div><b>1);</b>Crie uma classe chamada SistemaSeguranca. 
 
 # RESPOSTA
 
-## CÓDIGO EM JS
+## CÓDIGO EM TS
 
 ```typescript
 class SistemaSeguranca {
